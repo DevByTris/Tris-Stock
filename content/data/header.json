@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "About",
-            "altText": "Careers page",
+            "altText": "About Tris",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
